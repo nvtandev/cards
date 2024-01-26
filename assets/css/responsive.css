@@ -1,0 +1,16 @@
+/* PHẦN CARD */
+@media (max-width:768px){
+    .taggroup #search-box{
+        width: 100%;
+    }
+}
+
+@media (max-width:350px){
+    .taggroup{
+        padding:25px 20px;
+    }
+
+    .taggroup .image-taggroup .image{
+        width: 100%;
+    }
+}
